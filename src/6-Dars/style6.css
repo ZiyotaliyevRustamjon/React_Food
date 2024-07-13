@@ -6,7 +6,7 @@
 }
 .cardBar {
     width: 50%;
-    background-color: gold;
+    background-color: green;
     margin: 100px auto;
     border-radius: 20px;
     padding: 20px;
@@ -22,12 +22,13 @@
     width: 100%;
     padding: 10px;
     font-size: 18px;
-    background-color: #fff;
+    background-color: gold;
     border: 1px solid #000;
     border-radius: 10px;
     margin-top: 20px;
     cursor: pointer;
     transition: 0.5s;
+    color: #fff;
 }
 .cardBar .btn:active {
     transform: scale(0.9);
